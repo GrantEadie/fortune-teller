@@ -3,58 +3,56 @@
 }
 
 body {
-  background-color: rgb(224, 174, 214);
+  background-color: rgb(197, 197, 197);
 }
 
 .mainHeader{
   text-align: center;
   color: rgb(255, 255, 255);
   padding: 30px;
-  border: outset rgb(132, 0, 255);
+  border: outset rgb(255, 254, 255);
   border-width: 10px;
   border-radius: 20px;
-  background-color: rgb(192, 28, 91);
+  background-color: rgb(177, 51, 68);
   font-family: 'Bungee Inline', cursive;
 }
 #ageBox {
   padding: 10px;
-  text-align: center;
-  
-  border: outset rgb(132, 0, 255);
+  text-align: center;  
+  border: outset rgb(255, 254, 255);
   border-radius: 10px;
-  background-color: rgb(179, 92, 125);
+  background-color: rgb(179, 92, 165);
   font-family: 'Bungee Inline', cursive;
 }
 #colorBox {
   padding: 10px;
-  text-align: center;
-  
-  border: outset rgb(132, 0, 255);
+  text-align: center;  
+  border: outset rgb(255, 254, 255);
   border-radius: 10px;
-  background-color: rgb(179, 67, 110);
+  background-color: rgb(179, 92, 165);
   /* font-family: 'Bungee Inline', cursive; */
 }
 #wyrBox {
   padding: 10px;
   text-align: center;
-  border: outset rgb(132, 0, 255);
+  border: outset rgb(255, 254, 255);
   border-radius: 10px;
-  background-color: rgb(179, 67, 110);
+  background-color: rgb(179, 92, 165);
   font-family: 'Bungee Inline', cursive;
 }
 #match {
   padding: 10px;
   text-align: center;
-  border: outset rgb(132, 0, 255);
+  border: outset rgb(255, 254, 255);
   border-radius: 10px;
-  background-color: rgb(179, 67, 110);
+  background-color: rgb(175, 55, 55);
   font-family: 'Bungee Inline', cursive;
 }
 .matchTitle { 
   padding: 10px;
   text-align: center;  
-  border: outset rgb(132, 0, 255);
+  border: outset rgb(255, 254, 255);
   border-radius: 10px;
-  background-color: rgb(179, 92, 125);
+  background-color: rgb(202, 18, 18);
   font-family: 'Bungee Inline', cursive;
 }
